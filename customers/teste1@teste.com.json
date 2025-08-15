@@ -1,11 +1,12 @@
 {
   "email": "teste1@teste.com",
-  "senha": "teste1-test_1",
+  "senha": "teste1-fyn5js",
   "produto": "ReePreenDidoEmNomeDeJesus",
   "upsells_comprados": [
     3
   ],
   "data": "2025-08-15T21:00:15.325Z",
   "transacao_id": "test_165466",
-  "acesso_liberado": true
+  "acesso_liberado": true,
+  "data_recuperacao": "2025-08-15T21:33:59.504Z"
 }
