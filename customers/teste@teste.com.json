@@ -1,0 +1,11 @@
+{
+  "email": "teste@teste.com",
+  "senha": "teste-test_1",
+  "produto": "ReePreenDidoEmNomeDeJesus",
+  "upsells_comprados": [
+    1
+  ],
+  "data": "2025-08-15T20:48:36.231Z",
+  "transacao_id": "test_176522",
+  "acesso_liberado": true
+}
